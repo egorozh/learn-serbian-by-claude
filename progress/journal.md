@@ -7,6 +7,7 @@
 | — | — | _проект создан_ | — | Структура готова, ждём первое занятие |
 | 1 | 2026-06-24 | Приветствия и знакомство | zdravo, kako si, dobro sam, hvala, molim, ja sam, zovem se, drago mi je, odakle si, govorim, živim u, onako, odlično, čekaj | Живо, уверенно. Сам использовал «onako» — разговорное слово. Ошибка: ž → z (клавиатура). Живёт в Новом Саду — отличное произношение будет! |
 | 2 | 2026-06-24 | О себе: профессия, возраст, интересы | posao, radim, programer, godina, imam, volim, muzika, putovanje, sport, košarka, šta | Уверенно представился в диалоге. Запомнил godinu (31). Ошибка: «volim se igrati» вместо «volim da igram»; «muzike» вместо «muziku». Над чем работать: аккузатив после volim. |
+| 3 | 2026-06-24 | Числа и счёт | nula–deset, dvadeset, trideset, sto, koliko, broj, iz, savršeno | Отлично! Сам сказал «imam 31 godinu» — правильная форма godinu. Продиктовал номер телефона по-сербски без ошибок. Интуитивно использовал «iz Rusije». Разминка: верно воспроизвёл фразы из уроков 1–2. |
 
 ---
 
