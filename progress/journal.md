@@ -9,6 +9,7 @@
 | 2 | 2026-06-24 | О себе: профессия, возраст, интересы | posao, radim, programer, godina, imam, volim, muzika, putovanje, sport, košarka, šta | Уверенно представился в диалоге. Запомнил godinu (31). Ошибка: «volim se igrati» вместо «volim da igram»; «muzike» вместо «muziku». Над чем работать: аккузатив после volim. |
 | 3 | 2026-06-24 | Числа и счёт | nula–deset, dvadeset, trideset, sto, koliko, broj, iz, savršeno | Отлично! Сам сказал «imam 31 godinu» — правильная форма godinu. Продиктовал номер телефона по-сербски без ошибок. Интуитивно использовал «iz Rusije». Разминка: верно воспроизвёл фразы из уроков 1–2. |
 | 4 | 2026-06-25 | В кафе | kafa, voda, račun, hoću, pljeskavica, konobar, odmah, naravno, prijatno, izvinite | Сам использовал «izvinite» без подсказки. Правильно склонял «veliku pljeskavicu» — интуиция аккузатива работает. Маленькая ошибка: čecai вместо čekaj (буква j). Над чем работать: порядок слов — molim ставить после заказа. |
+| 5 | 2026-06-26 | В магазине / на рынке | košta, treba mi, skupo, jeftino, daj mi, ukupno, jabuka, šargarepa, još, dinar | Сильное занятие. Дважды сам применил аккузатив (jednu jabuku, jednu šargarepu) без подсказки. Использовал «još» интуитивно. Ошибка: «jelim» вместо «hoću»; «izvini» вместо «izvinite»; «dai» вместо «daj». Отличное чутьё языка! |
 
 ---
 
