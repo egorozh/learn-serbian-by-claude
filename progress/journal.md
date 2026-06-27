@@ -11,6 +11,7 @@
 | 4 | 2026-06-25 | В кафе | kafa, voda, račun, hoću, pljeskavica, konobar, odmah, naravno, prijatno, izvinite | Сам использовал «izvinite» без подсказки. Правильно склонял «veliku pljeskavicu» — интуиция аккузатива работает. Маленькая ошибка: čecai вместо čekaj (буква j). Над чем работать: порядок слов — molim ставить после заказа. |
 | 5 | 2026-06-26 | В магазине / на рынке | košta, treba mi, skupo, jeftino, daj mi, ukupno, jabuka, šargarepa, još, dinar | Сильное занятие. Дважды сам применил аккузатив (jednu jabuku, jednu šargarepu) без подсказки. Использовал «još» интуитивно. Ошибка: «jelim» вместо «hoću»; «izvini» вместо «izvinite»; «dai» вместо «daj». Отличное чутьё языка! |
 | ★ | 2026-06-27 | **Чтение комикса** (Daredevil, Marvel) | sjajno, čast, verovatno, naročito, divota, saradnik, obezbeđenje, ustanova, moći, gmazovi | Внеплановое чтение: несколько страниц сербского перевода Daredevil. Живой разговорный язык, юмор, реалии Marvel (Štit = ЩИТ, Ljubičasti čovek = Purple Man). Хорошо читался контекст. |
+| 6 | 2026-06-27 | **Время и дни** | ponedeljak, utorak, sreda, četvrtak, petak, subota, nedelja, sat, pola, danas, sutra, juče, dogovoreno, tačno, gde | Сильное занятие. Сам задал вопрос «Koji je sutra dan?» — без подсказки! Уверенно использовал дни недели и время в диалоге. Поймал мою ошибку про pola — в русском и сербском работает одинаково. Ошибка (ложный друг): naravno ≠ «всё равно», = «конечно». Odmah не вспомнил. |
 
 ---
 
