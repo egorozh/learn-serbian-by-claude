@@ -12,6 +12,7 @@
 | 5 | 2026-06-26 | В магазине / на рынке | košta, treba mi, skupo, jeftino, daj mi, ukupno, jabuka, šargarepa, još, dinar | Сильное занятие. Дважды сам применил аккузатив (jednu jabuku, jednu šargarepu) без подсказки. Использовал «još» интуитивно. Ошибка: «jelim» вместо «hoću»; «izvini» вместо «izvinite»; «dai» вместо «daj». Отличное чутьё языка! |
 | ★ | 2026-06-27 | **Чтение комикса** (Daredevil, Marvel) | sjajno, čast, verovatno, naročito, divota, saradnik, obezbeđenje, ustanova, moći, gmazovi | Внеплановое чтение: несколько страниц сербского перевода Daredevil. Живой разговорный язык, юмор, реалии Marvel (Štit = ЩИТ, Ljubičasti čovek = Purple Man). Хорошо читался контекст. |
 | 6 | 2026-06-27 | **Время и дни** | ponedeljak, utorak, sreda, četvrtak, petak, subota, nedelja, sat, pola, danas, sutra, juče, dogovoreno, tačno, gde | Сильное занятие. Сам задал вопрос «Koji je sutra dan?» — без подсказки! Уверенно использовал дни недели и время в диалоге. Поймал мою ошибку про pola — в русском и сербском работает одинаково. Ошибка (ложный друг): naravno ≠ «всё равно», = «конечно». Odmah не вспомнил. |
+| 7 | 2026-06-28 | **Дорога и город** | levo, desno, pravo, tu, tamo, blizu, daleko, ulica, grad, kafić, sada | Хорошая разминка: 5/5 слов правильно (odmah, naravno, koliko je sati, subota, sutra). Успешно спросил дорогу: «Izvinite, gde je kafić?». Правильно понял объяснение с levo/desno/pravo. Ошибка: «caffe» вместо «kafić»; «Nalazimo» вместо «Nalazimo se» (пропустил возвратное «se»). Поблагодарил «hvala velika» — понятно, но лучше «hvala puno». |
 
 ---
 
