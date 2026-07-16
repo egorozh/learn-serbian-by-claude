@@ -187,7 +187,29 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 Та же модель дальше встретится у **umoran/umorna** (усталый/уставшая) и других
 прилагательных на -an.
 
-### jesti vs jeste — похожие, но разные слова (урок 10)
+### Генитив после «количества»: flaša vode, parče pice (домашка, Lekcija 8)
+
+После слов количества/ёмкости — **flaša** (бутылка), **čaša** (стакан),
+**šolja** (чашка), **parče** (кусок), **porcija** (порция), **tanjir** (тарелка),
+**kašičica** (ложечка) — то, что внутри, стоит в **генитиве** (родительный: «чего?»):
+
+- женский род -a → **-e**: voda → flaša vod**e**, supa → tanjir sup**e**, pica → parče pic**e**
+- мужской/средний род → **+a**: čaj → šolja čaj**a**, sladoled → porcija sladoled**a**, vino → čaša vin**a**
+
+Точно как в русском: «бутылка вод**ы**», «кусок пицц**ы**» — тот же вопрос «чего?».
+
+### Вкусы: sladak / slan / ljut / kiseo / gorak (домашка, Lekcija 8)
+
+Согласование по роду — та же модель, что gladan/gladna:
+- м.р.: sok je slad**ak**, sir je sl**an**
+- ж.р.: torta je slat**ka**, supa je sla**na**
+- ср.р.: pivo je gor**ko**, meso je sla**no**
+- мн.ч.: kolači su slat**ki** (м), banane su slat**ke** (ж)
+
+Вопрос «какой?»: **Kakav je sok? Kakva je torta? Kakvo je pivo?** (м/ж/ср)
+
+Ловушки: **ljut** = острый (про еду) и «злой» (про человека); **sladak** теряет
+«a» в остальных формах (sladak → slatka, slatko); **kiseo** → ж.р. kisela.
 
 - **jesti** → я ем = **jedem** (глагол, от есть/кушать)
 - **jeste** — форма глагола *biti* («быть»): «вы есть» / вежливое «да, это так»
