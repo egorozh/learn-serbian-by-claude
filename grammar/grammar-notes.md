@@ -215,3 +215,16 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 
 **Kakvo je vreme?** — «Какая погода?» (не «который час» — это *Koliko je sati?*).
 Одно слово покрывает оба смысла: *nemam vremena* — нет времени, *lepo vreme* — хорошая погода.
+
+### «boli me...» — что у меня болит (урок 12)
+
+Логика как в русском «болит у меня голова»: **boli me** + то, что болит (в именительном):
+- *Boli me glava.* — Болит голова.
+- *Boli me stomak / grlo / zub.* — Болит живот / горло / зуб.
+
+Если болит **несколько** предметов (мн.ч.) — глагол меняется на **bole me**:
+- *Bole me oči.* — Болят глаза.
+- *Bole me noge.* — Болят ноги.
+
+Полезное рядом: *imam temperaturu* — у меня температура; *idem kod lekara* — иду к врачу;
+*idem u apoteku* — иду в аптеку.
