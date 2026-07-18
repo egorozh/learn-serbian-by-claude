@@ -228,3 +228,22 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 
 Полезное рядом: *imam temperaturu* — у меня температура; *idem kod lekara* — иду к врачу;
 *idem u apoteku* — иду в аптеку.
+
+### Перфект — прошедшее время (урок 13)
+
+Как рассказать, что ты делал. Строится почти как в русском:
+**вспомогательный глагол `sam` (я) + глагол на «-o / -la»** (аналог русского «-л / -ла»).
+
+- Мужчина: окончание **-o** → *radio, bio, jeo, pio, spavao, išao*
+- Женщина: окончание **-la** → *radila, bila, jela, pila, spavala, išla*
+
+Примеры (м.р.):
+- *Juče sam **bio** kod lekara.* — Вчера я был у врача.
+- *Juče sam **radio**.* — Вчера я работал.
+- *Jeo sam **crni hleb** i **kuvani krompir**.* — Я ел чёрный хлеб и варёную картошку.
+
+Спряжение вспомогательного: **sam** (я) / **si** (ты) / **je** (он-она) / **smo** (мы) / **ste** (вы) / **su** (они).
+
+⚠️ Короткое слово **`sam/si/je...`** любит **второе место** в предложении, не начало:
+- *Juče **sam** bio kod lekara.* ✅ / *Bio **sam** kod lekara.* ✅
+- ~~Sam bio kod lekara.~~ ❌
