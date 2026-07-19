@@ -247,3 +247,33 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 ⚠️ Короткое слово **`sam/si/je...`** любит **второе место** в предложении, не начало:
 - *Juče **sam** bio kod lekara.* ✅ / *Bio **sam** kod lekara.* ✅
 - ~~Sam bio kod lekara.~~ ❌
+
+### Перфект в ж.р. и мн.ч.: -la / -li (урок 14)
+
+Меняется только окончание глагола, вспомогательный (sam/si/je/smo/ste/su) тот же:
+
+| Кто | Оконч. | Пример |
+|---|---|---|
+| он | **-o** | On je **bio** |
+| она | **-la** | Ona je **bila** |
+| мы / они | **-li** | Mi smo **bili** / Oni su **bili** |
+
+- *Ona je **bila** kod kuće.* — Она была дома.
+- *Mi smo **bili** u kafiću.* — Мы были в кафе.
+
+Логика ровно как в русском: был / была / были → bio / bila / bili.
+
+### Мнение и эмоции: sviđa mi se / mislim da (урок 14)
+
+- **sviđa mi se** = мне нравится (дословно «нравится мне себя»). Что нравится — идёт **после**:
+  *Sviđa mi se Novi Sad. / Sviđa mi se ova pesma.* Отрицание: **ne sviđa mi se**.
+- **mislim da...** = я думаю, что... Дальше обычная фраза с глаголом *je*:
+  *Mislim da je ovo skupo. / Mislim da je Beograd velik.*
+- **slažem se** = я согласен/согласна; **zato što** = потому что (причина).
+
+### u + локатив для места — «в кафе, в России» (урок 14, повтор урок 6/8)
+
+Где находишься → **u** (или **na**) + локатив, НЕ **kod**:
+- *u kafiću, u gradu, u Rusiji, u Novom Sadu* — в кафе, в городе, в России, в Нови-Саде.
+- **kod** = «у кого-то»: *kod kuće* (у дома = дома), *kod lekara* (у врача).
+- Ошибка ученика: *bili smo kod kafić* → **bili smo u kafiću**.
