@@ -277,3 +277,29 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 - *u kafiću, u gradu, u Rusiji, u Novom Sadu* — в кафе, в городе, в России, в Нови-Саде.
 - **kod** = «у кого-то»: *kod kuće* (у дома = дома), *kod lekara* (у врача).
 - Ошибка ученика: *bili smo kod kafić* → **bili smo u kafiću**.
+
+### `da` (союз) vs `šta` (вопрос) — «что» (урок 15)
+
+Русское «что» в сербском — два разных слова, их легко перепутать:
+- **da** = союз «что» (соединяет две части): *Mislim **da** hoću kompenzaciju.* — Думаю, **что** хочу компенсацию. *Znam **da** je tako.*
+- **šta** = вопросительное «что?»: *Šta hoćeš?* — Что ты хочешь? *Šta je ovo?*
+
+После *mislim, znam, mislim da, kažem* — всегда **da**, никогда `šta`.
+Ошибка ученика: *Mislim **šta** hoću…* → *Mislim **da** hoću…*
+
+### `hoću` vs `treba mi` — «хочу» и «мне нужно» (урок 15)
+
+Две разные конструкции, нельзя смешивать в одну:
+- **hoću** = «хочу» → дальше вещь в **аккузативе** или `da` + глагол:
+  *Hoću kompenzaciju.* / *Hoću **da** dobijem kompenzaciju.*
+- **treba mi** = «мне нужно» → дальше вещь в **именительном**:
+  *Treba mi kompenzacija.*
+
+Ошибка ученика: *Hoću **da treba** kompenzaciju* — склеил обе. Выбирай одну.
+
+### Как сказать «меня уволили» (урок 15)
+
+- **Danas su me otpustili.** — Сегодня меня уволили. (перфект, `su` + `me` на 2-м месте)
+- **Dobio sam otkaz.** — Меня уволили (букв. «получил увольнение») — живой разговорный вариант.
+- **Ostao sam bez posla.** — Остался без работы.
+- **Imam pravo na kompenzaciju.** — У меня есть право на компенсацию. (`imati pravo na` + аккузатив)
