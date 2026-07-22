@@ -314,6 +314,21 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 Та же логика, что с городами: **u Rusiji** (где) / **iz Rusije** (откуда) / **kući** (куда домой).
 Ошибка ученика была стабильной: *vraćam se kod kuće* → нужно **kući** (движение).
 
+### «Работать НАД чем-то» — `raditi na` + локатив (урок 17)
+
+Чтобы сказать «работаю над проектом/сайтом», сербский берёт предлог **na** + локатив
+(та же связка, что *na sastanku*, *na poslu*):
+- *Radim **na sajtu**.* — Работаю над сайтом. (sajt → na sajtu, окончание **-u**)
+- *Radim **na projektu**.* — Работаю над проектом. (projekat → na projektu)
+- *Radim **na mobilnoj aplikaciji**.* — Работаю над мобильным приложением.
+
+⚠️ Слово встаёт в локатив, НЕ в винительный:
+*Radim na mobilne aplikacije* ❌ → **na mobilnoj aplikaciji** ✅.
+Женский род: aplikacij**a** → na aplikacij**i**, прилагательное mobiln**a** → mobiln**oj**.
+
+Полезное рядом: *sam svoj gazda* — сам себе начальник; *zarađujem od kuće* — зарабатываю
+из дома; *imam sastanak sa klijentom* — у меня созвон с клиентом (sa + инструментал).
+
 ### Место `sam` — всегда 2-е, не первое (урок 16, повтор)
 
 Короткие формы глагола «быть» (`sam, si, je, smo, ste, su`) — безударные,
