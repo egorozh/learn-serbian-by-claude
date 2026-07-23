@@ -329,6 +329,20 @@ ja usta**jem**, ti usta**ješ**, on/ona usta**je**, mi usta**jemo**, vi usta**je
 Полезное рядом: *sam svoj gazda* — сам себе начальник; *zarađujem od kuće* — зарабатываю
 из дома; *imam sastanak sa klijentom* — у меня созвон с клиентом (sa + инструментал).
 
+### `do` + генитив и `sa` + инструментал — «до пятницы», «с начальником» (короткая сессия 2026-07-23)
+
+Два маленьких, но частых оборота в разговоре про работу:
+
+- **do** («до» какого-то срока) → **генитив**:
+  - *do petk**a*** — до пятницы (petak → petka)
+  - *do sledeć**eg** petk**a*** — до следующей пятницы (*sledeći → sledećeg*)
+- **sa** («с» кем-то) → **инструментал** (окончание -om/-em):
+  - *sa gazd**om*** — с начальником (gazda → gazdom)
+  - *sa Gugl**om*** — с Гуглом; *sa klijent**om*** — с клиентом
+
+Пример целиком: *Imam rok na projektu **do sledećeg petka** i imam sastanak **sa gazdom**.*
+(Полезно: *sledeći* — следующий; Google по-сербски = **Gugl**.)
+
 ### Место `sam` — всегда 2-е, не первое (урок 16, повтор)
 
 Короткие формы глагола «быть» (`sam, si, je, smo, ste, su`) — безударные,
